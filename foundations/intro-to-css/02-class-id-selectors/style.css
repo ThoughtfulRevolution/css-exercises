@@ -9,7 +9,7 @@
 }
 
 .three{
-    font-size: 24px
+    font-size: 24px /*in theis case, the font size for 3 and 4 were the same, so you can just make a class for font size instead of adding additional font sizes.*/
 }
 
 #four{

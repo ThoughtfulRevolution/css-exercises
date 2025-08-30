@@ -1,0 +1,13 @@
+.container .text {
+    background-color:yellow;
+    color:red;
+    font-size:20px;
+    text-align:center;
+}
+/*you can also mix type and class in the selector section like belos*/
+div .text {
+    background-color:yellow;
+    color:red;
+    font-size:20px;
+    text-align:center;
+}
